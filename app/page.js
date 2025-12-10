@@ -144,7 +144,7 @@ export default function Home() {
   {/* Text Content */}
   <div className="w-full md:w-1/2 mt-8 md:mt-0 z-10">
     <h1 className="text-4xl md:text-5xl font-extrabold text-gray-900 dark:text-white mb-4 drop-shadow-lg">
-      Welcome to <span className="text-purple-600 dark:text-purple-400 animate-pulse">Yukta's Blog</span>
+      Welcome to <span className="text-purple-600 dark:text-purple-400 animate-pulse">Yukta&apos;s Blog</span>
     </h1>
     <p className="text-lg md:text-xl text-gray-600 dark:text-gray-300 mb-8">
       Build modern, fast, and <span className="font-semibold text-purple-500 dark:text-purple-300">beautiful</span> websites with ease.<br />
