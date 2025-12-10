@@ -35,7 +35,7 @@ export default function AboutHero() {
     About Us
   </h1>
   <p className="text-xl md:text-2xl   mb-8 font-medium">
-    Yukta Blog is a programming blog dedicated to sharing insightful tutorials, project showcases, and the latest trends in software development. Whether you're a beginner or a seasoned developer, you'll find valuable resources to boost your coding journey.
+    Yukta Blog is a programming blog dedicated to sharing insightful tutorials, project showcases, and the latest trends in software development. Whether you&apos;re a beginner or a seasoned developer, you&apos;ll find valuable resources to boost your coding journey.
   </p>
   <p className="text-lg   italic">
     Built with <span >❤️</span> by Yukta, passionate about code, learning, and community.
